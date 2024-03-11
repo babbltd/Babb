@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# 🌎 Who is Babb?
+# Hi, I'm Babb.
 

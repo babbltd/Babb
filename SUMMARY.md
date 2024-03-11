@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Who is Babb?](README.md)
+* [🌎 Who is Babb?](README.md)
